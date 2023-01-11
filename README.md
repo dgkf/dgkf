@@ -18,7 +18,7 @@
 ![developing](https://img.shields.io/badge/lifecycle-developing-orange)
 
 *Implementing `R` in `rust`*  
-Long term goals are for backwards compatibility with (the good parts) of R, with the hope of building into a successor language.
+Long term goals are for backwards compatibility with (the good parts of) R, as a platform for language experimentation.
 
 <!-- debugadapter -->
 <a href="https://github.com/dgkf/debugadapter"><img height="72" alt="R debugadapter" src="https://user-images.githubusercontent.com/18220321/211887618-2e88d097-0f3b-47a1-bcdc-aa201ccf0630.png" align="left"></a>
