@@ -101,6 +101,16 @@ check](https://github.com/dgkf/ggpackets/workflows/R-CMD-check/badge.svg)](https
 
 *A package for making coding challenges, largely inspired by the [`learnr`](https://github.com/rstudio/learnr) package.*
 
+## Projects I :heart: Contributing To
+
+<!-- helix -->
+<a href="https://github.com/helix-editor/helix"><img height="72" alt="helix editor" src="https://user-images.githubusercontent.com/18220321/211898940-c6fbcf15-8afe-4759-96e4-b117f07bb93c.png" align="left"></a>
+
+[`helix`](https://github.com/helix-editor/helix) the *post-modern* text editor
+
+I'm a [proud contributor](https://github.com/helix-editor/helix/pulls?q=+is%3Apr+author%3Adgkf+) of a few quality-of-life fixes
+
+
 ### See something you like? Let me know!
 
 Generally I develop packages to learn... and that doesn't always
