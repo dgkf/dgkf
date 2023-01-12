@@ -44,7 +44,7 @@ Protocol](https://microsoft.github.io/debug-adapter-protocol/) for `R`, with the
 *Developer tool for surfacing global R package options*  
 
 <!-- testex -->
-<a href="https://github.com/dgkf/testex"><img height="72" alt="testex R package" src="https://user-images.githubusercontent.com/18220321/211887618-2e88d097-0f3b-47a1-bcdc-aa201ccf0630.png" align="left"></a>
+<a href="https://github.com/dgkf/testex"><img height="72" alt="testex R package" src="https://user-images.githubusercontent.com/18220321/211960830-8c969bee-8c80-4984-8132-b5993911f179.png" align="left"></a>
 
 #### [`testex`](https://github.com/dgkf/testex)
 
