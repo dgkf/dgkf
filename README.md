@@ -36,7 +36,7 @@ Protocol](https://microsoft.github.io/debug-adapter-protocol/) for `R`, with the
 #### [`options`](https://github.com/dgkf/options)
 
 [![CRAN](https://img.shields.io/cran/v/options.svg)](https://cran.r-project.org/package=options)
-[![R CMD check](https://github.com/dgkf/options/actions/workflows/check-full.yaml/badge.svg)](https://github.com/dgkf/options/actions/workflows/check-full.yaml)
+[![R CMD check](https://github.com/dgkf/options/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/dgkf/options/actions/workflows/check-standard.yaml)
 [![Codecov](https://img.shields.io/codecov/c/github/dgkf/options/master.svg)](https://app.codecov.io/gh/dgkf/options)
 [![downloads](https://cranlogs.r-pkg.org/badges/options)](https://cran.r-project.org/package=options)
 [![Matrix Space](https://img.shields.io/matrix/r-pkg-options:matrix.org)](https://matrix.to/#/#r-pkg-options:matrix.org)
